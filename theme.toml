@@ -1,0 +1,2 @@
+[template]
+pages=["index.html","common/header.html","common/footer.html","common/page-footer.html"]
