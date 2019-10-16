@@ -1,2 +1,2 @@
 [template]
-pages=["index.html","common/header.html","common/footer.html","common/page-footer.html"]
+pages=["index.html","common/header.html","common/footer.html","common/page-footer.html","common/summary.html"]
